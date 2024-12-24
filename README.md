@@ -1,3 +1,16 @@
+This is my solution for this project, in [my_solutions.ipynb](my_solutions.ipynb).
+
+Original repository is [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles).
+
+Time used: total about 6 hours.
+
+- 0.75 hour: setup and finish first question.
+- 1.5 hours: finish all before problem 11.
+- 2.5 hours: troubleshooting problem 11.
+- 1.5 hours: finish the last 3 problems.
+
+-------------------------------
+
 # GPU Puzzles
 - by [Sasha Rush](http://rush-nlp.com) - [srush_nlp](https://twitter.com/srush_nlp)
 
